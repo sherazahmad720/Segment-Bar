@@ -1,3 +1,8 @@
-## 0.0.1
+# Change Log
 
-* TODO: Describe initial release.
+## 0.0.1 - First release
+
+- Initial release of the package
+- Added SegmentBar widget
+- Added SegmentBarModel class
+- Added documentation and examples
