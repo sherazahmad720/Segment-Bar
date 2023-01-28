@@ -1,6 +1,6 @@
 name: segment_bar
 description: "SegmentBar is a lightweight package for creating a customizable segment bar widget in Flutter, with support for different colors and percentage values for each segment."
-version: 0.0.1
+version: 0.0.3
 repository: https://github.com/sherazahmad720/Segment-Bar
 issue_tracker: https://github.com/sherazahmad720/Segment-Bar/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+url_launcher%22
 

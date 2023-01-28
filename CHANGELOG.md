@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.0.1 - First release
+## 0.0.3 - First release
 
 - Initial release of the package
 - Added SegmentBar widget

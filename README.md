@@ -7,7 +7,7 @@ A flutter package that shows a different colored segments in a row, each color s
 Add the package to your `pubspec.yaml` dependencies:
 ```yaml
 dependencies:
-segment_bar: ^0.0.1
+segment_bar: ^0.0.3
 ```
 
 ## Usage
